@@ -4,9 +4,8 @@
 
 <h1 align="center">Eventify</h1>
 
-
-
 Event Management Website : Socket.io Implementation for Real-Time Updates
+<h3> Live Demo : https://eventify-olive-ten.vercel.app/ <h3/>
 
 
 ## Table of Contents
