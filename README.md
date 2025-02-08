@@ -1,6 +1,13 @@
-# Eventify
+<p align="center">
+  <img src="https://github.com/ParasY1724/Eventify/blob/main/frontend/public/logo.png" alt="Eventify Logo" width="80" style="margin-bottom: 10px;">
+</p>
+
+<h1 align="center">Eventify</h1>
+
+
 
 Event Management Website : Socket.io Implementation for Real-Time Updates
+
 
 ## Table of Contents
 
@@ -96,4 +103,3 @@ The frontend is built with React and utilizes various contexts for managing auth
 
 ---
 
-This README provides a comprehensive overview and detailed documentation of the Eventify project, highlighting the backend and frontend structures, socket implementations, and API endpoints.
